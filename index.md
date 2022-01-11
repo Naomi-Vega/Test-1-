@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my page!!
 
-You can use the [editor on GitHub](https://github.com/Naomi-Vega/Test-1-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> Live as if you were to die tomorrow. Learn as if you were to live forever. *Mahatma Gandhi* 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Naomi, I'm a 24 year old girl from Mexico City :mexico:
 
-### Markdown
+My hobbies are drawing, reading and playing the piano from time to time. Also I enjoy listening to new music of any genres (favorite genres would be pop and rock). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I arrived Vancouver a month ago looking to improve my english skills and get new experience on programming since back in Mexico I took some small courses and worked for the Google Cloud company which allowed me to have a few background on the website development environment :space_invader:
 
-```markdown
-Syntax highlighted code block
+I chose this country because of the weather and the friendly community you can find here. It was my first time seeing snow too so I was really excited to see what other new experiences I could have in Vancouver. 
 
-# Header 1
-## Header 2
-### Header 3
+This is a brief presentation of myself, **glad to meet you!**
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Naomi-Vega/Test-1-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Hi](images/608889-middle.png)
